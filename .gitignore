@@ -1,9 +1,12 @@
 .gitignore
 .DS_Store
-*/.DS_Store
 first-neural-network/.DS_Store
 intro-to-tensorflow/.DS_Store
 intro-to-tflearn/.DS_Store
 sentiment_network/.DS_Store
 */.ipynb_checkpoints/
 intro-to-tensorflow/notMNIST*
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
