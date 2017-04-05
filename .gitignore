@@ -10,3 +10,5 @@ intro-to-tensorflow/notMNIST*
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+
+.ipynb_checkpoints/
